@@ -1,0 +1,21 @@
+/*styling button*/
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  
+  .button2 {background-color: #FFCDC5;} 
+  .button1 {background-color: #DEA5A4;}  
+
+  /*styling font*/
+  .font1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
